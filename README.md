@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/33405994/index.html)
-# world-online-hockey-recovery<!doctype html>
+<!doctype html>
 <html lang="az">
 <head>
   <meta charset="utf-8">
